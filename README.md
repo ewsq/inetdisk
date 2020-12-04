@@ -33,3 +33,6 @@ HDFS文件系统，根据自己文件系统修改resource/hdfs.properties文件�
 默认登录
 用户名：kingsj
 密码：123456
+
+
+wsq 经试用正常
